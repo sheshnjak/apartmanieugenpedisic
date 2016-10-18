@@ -1,0 +1,21 @@
+a{text-decoration:none;color:#0f3f74;}
+a:hover{color:#2565ac;}
+.footer-container {background: #2565ac ;}
+.footer-navi {background:#0f3f74;}
+.footer-navi ul li {border:none;}
+div.content-wrap div.sl table td {text-align: center;}
+body.page-template-template-fullwidth-php div.content-wrapper blockquote {width: 750px}
+div.one_fourth {margin-left: -12px}
+#menu-sidebarmenu{margin-top:-1px;}
+ul.qtrans_language_chooser {margin-top:4px;}
+.sidebar .textwidget {margin-top:10px}
+div.sidebar form#searchform {margin:0 0 4px -21px;}
+#menu li.menu-item-type-custom.current-menu-item a {background-color:#fff;color:#0f3f74;} 
+#menu li.menu-item-type-custom.current-menu-item a:hover {background-color:#0f3f74;}  
+#menu li.current-menu-item a, #menu li a.selected, #menu li a:hover {background-color: #0f3f74;}
+#menu li.current_page_item.menu-item-277 a {background-color:#fff;color:#000;} 
+#menu li.current_page_item.menu-item-277 a:hover {background-color:#0f3f74;color:#fff;} 
+
+ul.fotografije {list-style-type:none}
+ul.fotografije li {float:left;width:160px;height:220px;text-align:center;}
+ul.fotografije li a img {float:none;text-align:center;}
